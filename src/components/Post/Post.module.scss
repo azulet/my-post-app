@@ -1,0 +1,29 @@
+.postContent {
+
+    font-size: 34px;
+    line-height: 46px;
+    margin-bottom: .4em;
+  
+  }
+  
+  .postMetaDate {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: .4em;
+    margin-right: 1em;
+
+    svg{
+      font-size: .85em;
+       margin-right: .3em;
+    }
+  }
+
+  .postMeta {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+
+  }
